@@ -1388,3 +1388,9 @@ $color-link-dark: #69c !default;
     }
   }
 }
+
+// XXX: pete f:
+// 
+.border-accent--top {
+  border-top: $color-dark 0.25rem solid;
+}
